@@ -12,7 +12,6 @@
 |김정훈|https://github.com/jhva|junghun8158@naver.com|
 |곽민성|https://github.com/kawkmin|alstjd5479@naver.com|
 |김선재|https://github.com/mizuirohoshi7|mizuirohoshi7@gmail.com|
-|송인규|https://github.com/IngyuSong|ingyu3879@gmail.com|
 |최소영|https://github.com/soyeong125|thdud3410@gmail.com|
 
 ## :bookmark_tabs: Projects
