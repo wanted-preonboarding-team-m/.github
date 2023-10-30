@@ -14,6 +14,9 @@
 |김선재|https://github.com/mizuirohoshi7|mizuirohoshi7@gmail.com|
 |최소영|https://github.com/soyeong125|thdud3410@gmail.com|
 
+## :wrench: Team Rules
+https://www.notion.so/mizuirohoshi7/58e887909e14437ebd403e7d57a7a16d
+
 ## :bookmark_tabs: Projects
 |과제 번호|과제 내용|깃허브|
 |---|---|---|
