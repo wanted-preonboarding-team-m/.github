@@ -21,6 +21,7 @@ https://www.notion.so/mizuirohoshi7/58e887909e14437ebd403e7d57a7a16d
 |과제 번호|과제 내용|깃허브|
 |---|---|---|
 |1|소셜 미디어 통합 Feed 서비스: 다양한 SNS의 게시글 조회, 좋아요, 공유를 한번에 관리|[링크](https://github.com/wanted-preonboarding-team-m/01_SocialIntegrateFreed)|
+|2|지리기반 맛집 추천 웹서비스: 사용자 위치 기반으로 맛집 추천 및 평가 서비스 제공|[링크](https://github.com/wanted-preonboarding-team-m/02_geoRecommendEats)|
 
 ## :mailbox: Communication
 [노션 링크](https://mizuirohoshi7.notion.site/Team-M-160f3ab6362641eda43b56d68f103b5b?pvs=4)
